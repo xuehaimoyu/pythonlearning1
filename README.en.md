@@ -9,7 +9,7 @@ python
 #### Installation
 
 1.  needle-plate simulation
-2.  xxxx
+2.  lazy to write
 3.  xxxx
 
 #### Instructions
