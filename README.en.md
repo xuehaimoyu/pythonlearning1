@@ -1,14 +1,14 @@
 # python学习与仿真练习
 
 #### Description
-开启python学习，个人的一些仿真和练习代码
+Some python learning exercise
 
 #### Software Architecture
-Software architecture description
+python
 
 #### Installation
 
-1.  xxxx
+1.  needle-plate simulation
 2.  xxxx
 3.  xxxx
 
